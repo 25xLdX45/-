@@ -24,7 +24,7 @@
     <meta name="hostname" content="github.com">
 
 
-  <meta name="keyboard-shortcuts-preference" content="all">
+  <meta name="keyboard-shortc="all">
   <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
     <meta name="expected-hostname" content="github.com">
